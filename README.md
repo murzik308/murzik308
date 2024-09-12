@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @murzik308
+- 👀 I’m interested in computer games, OSes and creating web pages
+- 🌱 I’m currently learning HTML
+- 😁 I’m trying to make Maxx Site: murzik308.github.io/maxx
+- ⚡ Fun fact: (4+4)+(4+4)=8+8=88
